@@ -1,0 +1,8 @@
+<div class="box">
+Mouse 1 to move, Mouse 2 to tear<br>
+Auto rotate: <a href="javascript:auto_rotate=0">off</a> / <a href="javascript:auto_rotate=1">on</a><br>
+  <a href="http://codepen.io/aggressivePizza/pen/yCLBm" target="_blank"style="color:blue" ><u>Another Version</u> </a> | <a href="http://3.bp.blogspot.com/-c_c4pr3yvsk/Tx8a6xCVbuI/AAAAAAAAAKA/CZKl-ftNdIw/s1600/Ear_14439206.jpg" style="color:blue" target="_blank"><u>User Guide</u></a><br>
+
+</div>
+<br>
+<canvas width="800" height="800" id="c"></canvas>
